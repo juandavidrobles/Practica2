@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Item4</string>
+    
+    <string-array name="Ciudad">
+
+        <item>Barranquilla</item>
+        <item>Bogota</item>
+        <item>Bucaramanga</item>
+        <item>Cali</item>
+        <item>Medellin</item>
+
+    </string-array>
+</resources>
